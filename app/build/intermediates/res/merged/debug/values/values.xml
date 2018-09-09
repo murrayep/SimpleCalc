@@ -213,12 +213,16 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="add_operation_text">Add</string>
+    <string name="add_operation_text1">AddNew</string>
     <string name="app_name">SimpleCalcTest</string>
     <string name="computationError">Error</string>
     <string name="div_operation_text">Div</string>
+    <string name="div_operation_text1">DivNew</string>
     <string name="mul_operation_text">Mul</string>
+    <string name="mul_operation_text1">MulNew</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub_operation_text">Sub</string>
+    <string name="sub_operation_text1">SubNew</string>
     <string name="type_operand_one_hint">Type Operand 1</string>
     <string name="type_operand_two_hint">Type Operand 2</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

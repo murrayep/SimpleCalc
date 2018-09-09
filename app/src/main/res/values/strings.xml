@@ -27,15 +27,19 @@
 
     <!-- Button label for add operation -->
     <string name="add_operation_text">Add</string>
+    <string name="add_operation_text1">AddNew</string>
 
     <!-- Button label for subtract operation -->
     <string name="sub_operation_text">Sub</string>
+    <string name="sub_operation_text1">SubNew</string>
 
     <!-- Button label for divide operation -->
     <string name="div_operation_text">Div</string>
+    <string name="div_operation_text1">DivNew</string>
 
     <!-- Button label for mul operation -->
     <string name="mul_operation_text">Mul</string>
+    <string name="mul_operation_text1">MulNew</string>
 
     <!-- Message for textview in case of errors  -->
     <string name="computationError">Error</string>

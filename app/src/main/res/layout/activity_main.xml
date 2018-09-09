@@ -44,13 +44,13 @@
         <Button android:id="@+id/operation_add_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/add_operation_text"
+            android:text="@string/add_operation_text1"
             android:onClick="onAdd"/>
 
         <Button android:id="@+id/operation_sub_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/sub_operation_text"
+            android:text="@string/sub_operation_text1"
             android:layout_toRightOf="@id/operation_add_btn"
             android:layout_toEndOf="@id/operation_add_btn"
             android:onClick="onSub"/>
@@ -58,14 +58,14 @@
         <Button android:id="@+id/operation_div_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/div_operation_text"
+            android:text="@string/div_operation_text1"
             android:layout_below="@id/operation_add_btn"
             android:onClick="onDiv"/>
 
         <Button android:id="@+id/operation_mul_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/mul_operation_text"
+            android:text="@string/mul_operation_text1"
             android:layout_below="@id/operation_add_btn"
             android:layout_toRightOf="@id/operation_add_btn"
             android:layout_toEndOf="@id/operation_add_btn"
